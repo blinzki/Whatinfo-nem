@@ -1,2 +1,2 @@
 # Whatinfo-nem
-con este script usted podrá asociar su billetera a su numero de telefono movil y hacer facilmente transferencias a otras billeteras mediante whatsapp
+With this script you can associate your wallet to your mobile phone number and easily make transfers to other phone number or wallet through Whatsapp
