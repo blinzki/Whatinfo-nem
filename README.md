@@ -10,4 +10,3 @@ Add the whatinfo contact number in your whatsapp (+58xxxxxxxxxx)
 Step 3:
 Send a message with the word "key" and copy and paste your private key
 
-Step 4: 
